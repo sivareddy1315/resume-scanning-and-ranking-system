@@ -1,4 +1,4 @@
-# Resume Scanning and Ranking System
+# AI-powered Resume Screening and Ranking System
 
 This repository contains a **Resume Scanning and Ranking System** built using machine learning and natural language processing (NLP) techniques. The system aims to automatically scan resumes and rank them based on relevance to job descriptions. It supports a web-based interface using **Streamlit** for user interaction.
 
