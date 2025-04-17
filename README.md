@@ -32,9 +32,7 @@ cd resume-scanning-and-ranking-system
 ## 2. Install dependencies
 Install the required Python libraries:
 
-bash
-Copy
-Edit
+bash```
 pip install -r requirements.txt
 bash```
 ## 3. Run the app
