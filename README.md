@@ -32,9 +32,9 @@ cd resume-scanning-and-ranking-system
 ## 2. Install dependencies
 Install the required Python libraries:
 
-bash```
+```bash
 pip install -r requirements.txt
-bash```
+```bash
 ## 3. Run the app
 To start the web interface using Streamlit:
 
