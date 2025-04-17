@@ -28,74 +28,7 @@ To set up this project locally, follow these steps:
 ```bash
 git clone https://github.com/sivareddy1315/resume-scanning-and-ranking-system.git
 cd resume-scanning-and-ranking-system
-## 2. Set up a virtual environment
-Create a virtual environment (optional but recommended):
 
-bash
-Copy
-Edit
-python3 -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-### 3. Install dependencies
-Install the required Python libraries:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-
-### 4. Run the app
-To start the web interface using Streamlit:
-
-bash
-Copy
-Edit
-streamlit run new.py
-Usage
-Open the Streamlit web app in your browser (usually at http://localhost:8501).
-
-Upload a resume (PDF file).
-
-Enter the job description or relevant criteria for ranking.
-
-View the ranked resumes based on relevance to the job description.
-
-Contributing
-Feel free to fork this repository, make improvements, and submit a pull request. Contributions are welcome!
-
-How to contribute:
-Fork this repository
-
-Create a new branch
-
-Make your changes
-
-Push to your fork
-
-Submit a pull request
-Acknowledgements
-Special thanks to the libraries Streamlit, scikit-learn, and PyPDF2 for making this project possible.
-
-Inspired by real-world applications in resume screening and job matching.
-
-Project Link:
-GitHub Repository
-
-yaml
-Copy
-Edit
-
----
-
-You can now **copy this entire block** and paste it into your `README.md` file in the GitHub repository.
-
-Let me know if you need further adjustments or help!
-
-
-
-
-
-
-
+## kwskw
 
 
