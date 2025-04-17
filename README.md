@@ -34,7 +34,7 @@ Install the required Python libraries:
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 ## 3. Run the app
 To start the web interface using Streamlit:
 
