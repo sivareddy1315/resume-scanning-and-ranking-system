@@ -48,9 +48,12 @@ git clone https://github.com/sivareddy1315/resume-scanning-and-ranking-system.gi
 cd resume-scanning-and-ranking-system
 ```
 ## Usage
-1.Open the Streamlit web app in your browser (usually at http://localhost:8501).
+1.Open the Streamlit web app in your browser (usually at http://localhost:8501).  
+
 2.Upload a resume (PDF file).
+
 3.Enter the job description or relevant criteria for ranking.
+
 4.View the ranked resumes based on relevance to the job description.
 
 ## Acknowledgements
