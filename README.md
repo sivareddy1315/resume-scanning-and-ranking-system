@@ -28,7 +28,7 @@ To set up this project locally, follow these steps:
 ```bash
 git clone https://github.com/sivareddy1315/resume-scanning-and-ranking-system.git
 cd resume-scanning-and-ranking-system
-### 2. Set up a virtual environment
+## 2. Set up a virtual environment
 Create a virtual environment (optional but recommended):
 
 bash
