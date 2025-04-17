@@ -28,7 +28,7 @@ To set up this project locally, follow these steps:
 ```bash
 git clone https://github.com/sivareddy1315/resume-scanning-and-ranking-system.git
 cd resume-scanning-and-ranking-system
-2. Set up a virtual environment
+### 2. Set up a virtual environment
 Create a virtual environment (optional but recommended):
 
 bash
@@ -36,14 +36,15 @@ Copy
 Edit
 python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-3. Install dependencies
+### 3. Install dependencies
 Install the required Python libraries:
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
-4. Run the app
+
+### 4. Run the app
 To start the web interface using Streamlit:
 
 bash
